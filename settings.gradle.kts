@@ -7,4 +7,4 @@
  * in the user guide at https://docs.gradle.org/5.0/userguide/multi_project_builds.html
  */
 
-rootProject.name = 'Husky-s-2.5D-RPG-Adventure-Game'
+rootProject.name = "Husky-s-2.5D-RPG-Adventure-Game"
